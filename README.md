@@ -158,6 +158,9 @@ with an emphasis on real-world Java EE architecture and database modeling.
 
 ---
 
+🔒 Source code is private and available upon request.
+
+
 ## 📌 Version Française
 
 ### 📖 Présentation
@@ -300,6 +303,9 @@ avec pour objectif la maîtrise de Java EE et de la modélisation des bases de d
 
 ---
 
+🔒 Le code source est privé et disponible sur demande.
+
+
 ## 👤 Author
 **YOUNESS EDDAMEJ**  
 Java / Web Developer  
@@ -309,4 +315,3 @@ Morocco
 
 - GitHub: [github.com/younessov](https://github.com/younessov)
 - LinkedIn: [linkedin.com/in/younesseddamej](https://www.linkedin.com/in/younesseddamej/)
-
